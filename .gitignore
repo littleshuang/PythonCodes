@@ -1,0 +1,8 @@
+
+# folders
+result
+.idea
+
+# files
+.DS_Store
+*.zip
